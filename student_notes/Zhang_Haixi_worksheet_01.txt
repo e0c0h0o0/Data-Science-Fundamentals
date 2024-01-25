@@ -1,0 +1,3 @@
+When a coin is fair, there is an equal probability that it will be heads or tails, which means that the probability of each is 0.5. If you flip a fair coin 10 times, and each time it comes up heads, the probability of this happening by chance is (0.5)^10= 0.0009765625 , or about 0.1%. At this point the probability is quite small enough to begin to doubt the fairness of the coin. So it may not be necessary to flip another coin to doubt the fairness.
+
+
